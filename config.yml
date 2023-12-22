@@ -1,7 +1,7 @@
 # get api_id & api_hash from my.telegram.org
-api_id: ''
-api_hash: ''
+api_id: "26371250"
+api_hash: "a545f4b8a3a90a5039ee756807b99234"
 # 13 digit channel id startswith - like -111.......
-dump_id: ''
+dump_id: "-1001965576240"
 # genrate session of ur tg ac for telethon run sessionmaker.py
-string_session: ''
+string_session: "1AZWarzYBu1qmFCkSuT7fYi538HNcSzLn5GPxt_RP6ENJKBxPFoYGJ4xF_zS1p3wswJUHE31vs0QSiGFpMhEAzebRdTGh0bgqRmIYK14Q4_t_bOJ-xCWWNlnz_LZYa7sXu58JhHZbw2PvshkeIqpAnLr55ATdx5eH2ziFrVXDPEmr6WXKoVzZLGHVUKtTBSM58pZUsQBXWu4rWGFOearRUAhHpeZ1vTtRTnUSYPe2nN7sMldw_M38HCydJ2aHlWH-Pp0oRzVJamSo8GDNMWpPtbiEPte9ZX0wPPkWz6wg0RkQRk4wJf0tYo493kzBS1L8DSVbadEB1ZwrHg2Q2v4eikUjMScQ_hI="
