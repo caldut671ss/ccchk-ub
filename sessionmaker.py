@@ -2,8 +2,8 @@ from telethon import TelegramClient
 from telethon.sessions import StringSession
 
 
-API_KEY = int(input("26371250"))
-API_HASH = input("a545f4b8a3a90a5039ee756807b99234")
+API_KEY = int(input("INSERT YOUR API KEY-->"))
+API_HASH = input("INSERT YOUR API HASH-->")
 
 
 bot = TelegramClient(StringSession(), API_KEY, API_HASH)
